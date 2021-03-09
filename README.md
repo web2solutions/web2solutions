@@ -38,14 +38,15 @@
 |  [Jumentix][1]  |   | 2020|
 |  [AgileREST][7]  |  | 2014 |
 |  [AgileWebsocket][8]  |   | 2015 |
-|  [PerlTrello][9]  |  | 2014 |
+|  [PerlTrello][9]  | Perl, Javascript, DHTMLX, Trello API | 2014 |
 |  [dhtmlxChat][10]  | Perl, Dancer, Twiggy, Nginx, RabbitMQ, DHTMLX, Websocket, ES5, DHTMLX | 2014 |
+|  [PaypalREST][17]  | Perl, LWP, Crypt, Paypal API | 2014 |
 |  [Tribunais::TJES][14]  | Perl, Mechanize, Xpath, Crawling | 2011 |
 |  [Tribunais::TRTES][15]  | Perl, Mechanize, Xpath, Crawling | 2011 |
 |  [WWW::Kinghost::Painel][16]  | Perl, DBI, Mechanize, Xpath, Crawling | 2011 |
 |  [DHTMLX-Perl][11]  | Perl, DBI, DHTMLX, MS SQL, PostgreSQL, MySQL, Firebird, Apache, IIS, ASP, CGI, PSGI | 2012 |
 |  [DHTMLX::Connector][12]  | Perl, DBI, DHTMLX, MS SQL, PostgreSQL, MySQL, Firebird, Apache, IIS, ASP, CGI, PSGI | 2011 |
-|  [DHTMLX::Core][13]  | Perl, DHTMLX, MS SQL, PostgreSQL, MySQL, Firebird, Apache, IIS, ASP, CGI, PSGI | 2011 |
+|  [DHTMLX::Core][13]  | Perl, DBI, DHTMLX, MS SQL, PostgreSQL, MySQL, Firebird, Apache, IIS, ASP, CGI, PSGI | 2011 |
 
 
 
@@ -70,3 +71,4 @@
 [14]: https://metacpan.org/release/Tribunais-TJES
 [15]: https://metacpan.org/release/Tribunais-TRTES
 [16]: https://metacpan.org/release/WWW-Kinghost-Painel
+[17]: https://github.com/web2solutions/PaypalREST
