@@ -39,7 +39,7 @@
 |  [AgileREST][7]  |  | 2014 |
 |  [AgileWebsocket][8]  |   | 2015 |
 |  [PerlTrello][9]  |  | 2014 |
-|  [dhtmlxChat][10]  |  | 2014 |
+|  [dhtmlxChat][10]  | Perl, Dancer, Twiggy, Nginx, RabbitMQ, DHTMLX, Websocket | 2014 |
 |  [DHTMLX-Perl][11]  | Perl, DBI, DHTMLX, MS SQL, PostgreSQL, Apache, IIS, ASP, CGI, PSGI | 2012 |
 |  [DHTMLX::Connector][12]  | Perl, DBI, DHTMLX, MS SQL, PostgreSQL, Apache, IIS, ASP, CGI | 2011 |
 |  [DHTMLX::Core][13]  | Perl, DHTMLX, MS SQL, PostgreSQL, Apache, IIS, ASP, CGI | 2011 |
