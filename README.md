@@ -1,11 +1,5 @@
 # José Eduardo Almeida
 
-![José Eduardo Almeida's github stats](https://github-readme-stats.vercel.app/api?username=web2solutions&show_icons=true&hide_border=true)
-
-<a href="https://github.com/web2solutions">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=web2solutions" />
-</a>
-
 <br>
 
   <a href="https://www.linkedin.com/in/eduardo-perotta-de-almeida/">
@@ -15,7 +9,17 @@
     <img align="left" alt="José Eduardo Almeida | Gmail" width="26px" src="https://github.com/web2solutions/web2solutions/blob/main/Gmail.svg" />
   </a>
 
-<br><br><br><br>
+<br>
+
+![José Eduardo Almeida's github stats](https://github-readme-stats.vercel.app/api?username=web2solutions&show_icons=true&hide_border=true)
+
+<a href="https://github.com/web2solutions">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=web2solutions" />
+</a>
+
+
+
+<br><br>
 
 ## Some repositories:
 
