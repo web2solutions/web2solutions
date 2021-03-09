@@ -27,6 +27,8 @@
 |  [Voodux x React demo #1][2]  |  ES6, React, Hooks, Context API, React Router, Material UI, Echarts,, Offline First, babel and webpack | 2021 |
 |  [Voodux x Vuejs demo #1][3]  |  ES6, Vue, Vue Router, Lazy loading, Bootstrap 4, Echarts,, Offline First, babel and webpack  | 2021 |
 |  [Voodux x Ionic demo #1][4]  |  Typescript, Ionic, Ionic router, react, Offline First  | 2021 |
+|  [dhxMVP][5]  |  VanillaJS, DHTMLX, Gulp, Electron, Browser extension, IndexedDB  | 2016 |
+|  [csvViewer][6]  |  DHTMLX, IndexedDB,jQuery, PapaParse  | 2015 |
 
 
 
@@ -36,3 +38,5 @@
 [2]: https://github.com/web2solutions/voodux-react-context-api-demo
 [3]: https://github.com/web2solutions/voodux-vue-simple-demo
 [4]: https://github.com/web2solutions/test
+[5]: https://github.com/web2solutions/dhxMVP
+[6]: https://github.com/web2solutions/csvViewer
