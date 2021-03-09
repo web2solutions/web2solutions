@@ -1,18 +1,5 @@
 # José Eduardo Almeida
 
-I'm software architect heavily experienced on creating SaaS products and cloud solutions in different industries.
-
-I have been in a direct management and architecture role for various years now and have a hands-on experience with a variety of industries, technologies and platforms including Linux and Microsoft stacks.
-
-I have always delivered with focus on aligning IT strategy with company vision, employees and clients. In addition to my current experience, I have consistently driven teams to deliver a very high quality product within stringent time and budget constraints.
-
-I can also master new technologies very quickly and love new challenges. I have an excellent success record on all projects I have worked on and have excellent recommendations from my past experiences in various companies.
-
-(Check the full list of my shared repos)(https://github.com/web2solutions?tab=repositories&q=&type=source&language=)
-
-## Interesting repos
-
-
 ![José Eduardo Almeida's github stats](https://github-readme-stats.vercel.app/api?username=web2solutions&show_icons=true&hide_border=true)
 
 <a href="https://github.com/web2solutions">
@@ -29,3 +16,18 @@ I can also master new technologies very quickly and love new challenges. I have 
   </a>
 
 <br><br><br><br>
+
+## Interesting projects:
+
+### Front End
+
+| Repo                                    |  Technologies                 |  Date                 |
+| --------------------------------------- | ----------------------------- |
+|  [VooduX][1]      |  ES8, babel, webpack, IndexeDB, React, Vue, Cypress, JsDoc | 2021
+|  Célula de conteúdo                     |  Célula de conteúdo           |
+
+
+
+
+
+[1]: https://web2solutions.github.io/voodux/code/index.html
