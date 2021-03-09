@@ -22,9 +22,9 @@
 ### Front End
 
 | Repo                                    |  Technologies                 |  Date                 |
-| --------------------------------------- | ----------------------------- |
-|  [VooduX][1]      |  ES8, babel, webpack, IndexeDB, React, Vue, Cypress, JsDoc | 2021
-|  Célula de conteúdo                     |  Célula de conteúdo           |
+| --------------------------------------- | ----------------------------- | ----------------------------- |
+|  [VooduX][1]      |  ES8, babel, webpack, IndexeDB, React, Vue, Cypress, JsDoc | 2021|
+|  Célula de conteúdo                     |  Célula de conteúdo           | |
 
 
 
