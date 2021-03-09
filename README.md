@@ -24,7 +24,7 @@
 | Repo                                    |  Technologies                 |  Date                 |
 | --------------------------------------- | ----------------------------- | ----------------------------- |
 |  [VooduX][1]  |  ES8, babel, webpack, IndexeDB, Web and Service Workers, Offline First, React, Vue, Cypress, JsDoc, TDD, DDD | 2021|
-|  [Jumentix-Vue-UI][18]  |  ES6, Vue, Swagger, babel, webpack, IndexeDB, Vuetify, jQWidgets, Echarts, Material Design | 2019|
+|  [Jumentix-Vue-UI][18]  |  ES6, Vue, Swagger, babel, webpack, IndexeDB, Vuetify, jQWidgets, Echarts, Material Design | 2019 - 2020 |
 |  [Voodux x React demo #1][2]  |  ES8, React, Hooks, Context API, React Router, Material UI, Echarts,, Offline First, babel and webpack | 2021 |
 |  [Voodux x Vuejs demo #1][3]  |  ES8, Vue, Vue Router, Lazy loading, Bootstrap 4, Echarts,, Offline First, babel and webpack  | 2021 |
 |  [Voodux x Ionic demo #1][4]  |  Typescript, Ionic, Ionic router, react, Offline First  | 2021 |
@@ -36,7 +36,7 @@
 
 | Repo                                    |  Technologies                 |  Date                 |
 | --------------------------------------- | ----------------------------- | ----------------------------- |
-|  [Jumentix][1]  |   | 2018|
+|  [Jumentix][1]  |   | 2019 - 2020|
 |  [AgileREST][7]  |  OO, Perl, DBIx, Mojolicious, Redis, PostgreSQL, MS SQL, MySQL, Starman, Nginx, AWS EC2  | 2014 |
 |  [AgileWebsocket][8]  | Perl, Mojolicious, Redis, Websocket, Nginx, AWS EC2  | 2015 |
 |  [PerlTrello][9]  | Perl, Javascript, DHTMLX, Trello API, CGI, Apache | 2014 |
