@@ -23,7 +23,7 @@
 
 | Repo                                    |  Technologies, Paradigms                 |  Date                 |
 | --------------------------------------- | ----------------------------- | ----------------------------- |
-|  [VooduX][1]  |  ES8, Nodejs, babel, webpack, IndexeDB, Web and Service Workers, React, Vue, Cypress, JsDoc, TDD, DDD, Offline First, CASE, RAD, DRY | 2021|
+|  [VooduX][1]  |  ES8, Nodejs, babel, webpack, IndexeDB, Web and Service Workers, React, Vue, Cypress, JsDoc, TDD, DDD, Offline First, CASE, RAD, DRY, Event Driven Architecture, Event Sourcing | 2021|
 |  [Jumentix-Vue-UI][18]  |  ES6, Nodejs, Vue, Swagger, babel, webpack, IndexeDB, Vuetify, jQWidgets, Echarts, Material Design, Offline First, CASE, RAD, DRY | 2019 - 2020 |
 |  [Voodux x React demo #1][2]  |  ES8, Nodejs, React, Hooks, Context API, React Router, Material UI, Echarts, babel, webpack, Offline First, | 2021 |
 |  [Voodux x Vuejs demo #1][3]  |  ES8, Nodejs, Vue, Vue Router, Lazy loading, Bootstrap 4, Echarts, babel, webpack, Offline First,  | 2021 |
