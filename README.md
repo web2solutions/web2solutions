@@ -21,23 +21,23 @@
 
 ### Front End
 
-| Repo                                    |  Technologies                 |  Date                 |
+| Repo                                    |  Technologies, Paradigms                 |  Date                 |
 | --------------------------------------- | ----------------------------- | ----------------------------- |
-|  [VooduX][1]  |  ES8, babel, webpack, IndexeDB, Web and Service Workers, Offline First, React, Vue, Cypress, JsDoc, TDD, DDD | 2021|
-|  [Jumentix-Vue-UI][18]  |  ES6, Vue, Swagger, babel, webpack, IndexeDB, Vuetify, jQWidgets, Echarts, Material Design | 2019 - 2020 |
-|  [Voodux x React demo #1][2]  |  ES8, React, Hooks, Context API, React Router, Material UI, Echarts,, Offline First, babel and webpack | 2021 |
-|  [Voodux x Vuejs demo #1][3]  |  ES8, Vue, Vue Router, Lazy loading, Bootstrap 4, Echarts,, Offline First, babel and webpack  | 2021 |
-|  [Voodux x Ionic demo #1][4]  |  Typescript, Ionic, Ionic router, react, Offline First  | 2021 |
-|  [dhxMVP][5]  |  ES5 (VanillaJS), DHTMLX, Gulp, Electron, Browser extension, IndexedDB  | 2016 |
-|  [csvViewer][6]  |  DHTMLX, IndexedDB, jQuery, PapaParse  | 2015 |
+|  [VooduX][1]  |  ES8, Nodejs, babel, webpack, IndexeDB, Web and Service Workers, React, Vue, Cypress, JsDoc, TDD, DDD, Offline First, CASE, RAD, DRY | 2021|
+|  [Jumentix-Vue-UI][18]  |  ES6, Nodejs, Vue, Swagger, babel, webpack, IndexeDB, Vuetify, jQWidgets, Echarts, Material Design, Offline First, CASE, RAD, DRY | 2019 - 2020 |
+|  [Voodux x React demo #1][2]  |  ES8, Nodejs, React, Hooks, Context API, React Router, Material UI, Echarts, babel, webpack, Offline First, | 2021 |
+|  [Voodux x Vuejs demo #1][3]  |  ES8, Nodejs, Vue, Vue Router, Lazy loading, Bootstrap 4, Echarts, babel, webpack, Offline First,  | 2021 |
+|  [Voodux x Ionic demo #1][4]  |  Typescript, Nodejs, Ionic, Ionic router, react, Offline First  | 2021 |
+|  [dhxMVP][5]  |  ES5 (VanillaJS), Nodejs, DHTMLX, Gulp, Electron, IndexedDB, Browser extension, Offline First, CASE, RAD, DRY  | 2016 |
+|  [csvViewer][6]  |  Nodejs, DHTMLX, IndexedDB, jQuery, PapaParse  | 2015 |
 
 
 ### Back end
 
 | Repo                                    |  Technologies                 |  Date                 |
 | --------------------------------------- | ----------------------------- | ----------------------------- |
-|  [Jumentix][1]  |   | 2019 - 2020|
-|  [AgileREST][7]  |  OO, Perl, DBIx, Mojolicious, Redis, PostgreSQL, MS SQL, MySQL, Starman, Nginx, AWS EC2  | 2014 |
+|  [Jumentix][1]  |  ES6,  Nodejs, Mongoose, Sequelize, Express, Socket.io, pm2, MongoDB, Redis, MS SQL, RabbitMQ, Apache Cassandra, Elastic Search, Swagger,  Event Sourcing, CASE, RAD, DRY | 2019 - 2020|
+|  [AgileREST][7]  |  OO, Perl, DBIx, Mojolicious, Redis, PostgreSQL, MS SQL, MySQL, Starman, Nginx, AWS EC2, CASE, RAD, DRY  | 2014 |
 |  [AgileWebsocket][8]  | Perl, Mojolicious, Redis, Websocket, Nginx, AWS EC2  | 2015 |
 |  [PerlTrello][9]  | Perl, Javascript, DHTMLX, Trello API, CGI, Apache | 2014 |
 |  [dhtmlxChat][10]  | Perl, Dancer, Twiggy, Nginx, RabbitMQ, DHTMLX, Websocket, ES5, DHTMLX | 2014 |
