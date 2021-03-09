@@ -65,7 +65,7 @@
 [10]: https://github.com/web2solutions/dhtmlxChat
 [11]: https://github.com/web2solutions/DHTMLX-Perl
 [12]: https://metacpan.org/pod/DHTMLX::Connector
-[13]: https://metacpan.org/pod/DHTMLX::Core 2011
+[13]: https://metacpan.org/pod/DHTMLX::Core
 [14]: https://metacpan.org/release/Tribunais-TJES
 [15]: https://metacpan.org/release/Tribunais-TRTES
 [16]: https://metacpan.org/release/WWW-Kinghost-Painel
