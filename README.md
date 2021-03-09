@@ -16,7 +16,7 @@ I can also master new technologies very quickly and love new challenges. I have 
 ![José Eduardo Almeida's github stats](https://github-readme-stats.vercel.app/api?username=web2solutions&show_icons=true&hide_border=true)
 
 <a href="https://github.com/web2solutions">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=web2solutions&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=web2solutions" />
 </a>
 
 <br>
