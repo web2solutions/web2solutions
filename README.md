@@ -23,10 +23,10 @@
 
 | Repo                                    |  Technologies                 |  Date                 |
 | --------------------------------------- | ----------------------------- | ----------------------------- |
-|  [VooduX][1]  |  ES8, babel, webpack, IndexeDB, React, Vue, Cypress, JsDoc, TDD, DDD | 2021|
-|  [Voodux x React demo #1][2]  |  ES6, React, Hooks, Context API, React Router, Material UI, Echarts, babel and webpack | 2021 |
-|  [Voodux x Vuejs demo #1][3]  |  ES6, Vue, Vue Router, Lazy loading, Bootstrap 4, Echarts, babel and webpack  | 2021 |
-|  [Voodux x Ionic demo #1][4]  |  Typescript, Ionic, Ionic router, react  | 2021 |
+|  [VooduX][1]  |  ES8, babel, webpack, IndexeDB, Web and Service Workers, Offline First, React, Vue, Cypress, JsDoc, TDD, DDD | 2021|
+|  [Voodux x React demo #1][2]  |  ES6, React, Hooks, Context API, React Router, Material UI, Echarts,, Offline First, babel and webpack | 2021 |
+|  [Voodux x Vuejs demo #1][3]  |  ES6, Vue, Vue Router, Lazy loading, Bootstrap 4, Echarts,, Offline First, babel and webpack  | 2021 |
+|  [Voodux x Ionic demo #1][4]  |  Typescript, Ionic, Ionic router, react, Offline First  | 2021 |
 
 
 
