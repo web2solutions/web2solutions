@@ -24,11 +24,12 @@
 | Repo                                    |  Technologies                 |  Date                 |
 | --------------------------------------- | ----------------------------- | ----------------------------- |
 |  [VooduX][1]  |  ES8, babel, webpack, IndexeDB, Web and Service Workers, Offline First, React, Vue, Cypress, JsDoc, TDD, DDD | 2021|
-|  [Voodux x React demo #1][2]  |  ES6, React, Hooks, Context API, React Router, Material UI, Echarts,, Offline First, babel and webpack | 2021 |
-|  [Voodux x Vuejs demo #1][3]  |  ES6, Vue, Vue Router, Lazy loading, Bootstrap 4, Echarts,, Offline First, babel and webpack  | 2021 |
+|  [Jumentix-Vue-UI][18]  |  ES6, Vue, Swagger, babel, webpack, IndexeDB, Vuetify, jQWidgets, Echarts, Material Design | 2019|
+|  [Voodux x React demo #1][2]  |  ES8, React, Hooks, Context API, React Router, Material UI, Echarts,, Offline First, babel and webpack | 2021 |
+|  [Voodux x Vuejs demo #1][3]  |  ES8, Vue, Vue Router, Lazy loading, Bootstrap 4, Echarts,, Offline First, babel and webpack  | 2021 |
 |  [Voodux x Ionic demo #1][4]  |  Typescript, Ionic, Ionic router, react, Offline First  | 2021 |
-|  [dhxMVP][5]  |  VanillaJS, DHTMLX, Gulp, Electron, Browser extension, IndexedDB  | 2016 |
-|  [csvViewer][6]  |  DHTMLX, IndexedDB,jQuery, PapaParse  | 2015 |
+|  [dhxMVP][5]  |  ES5 (VanillaJS), DHTMLX, Gulp, Electron, Browser extension, IndexedDB  | 2016 |
+|  [csvViewer][6]  |  DHTMLX, IndexedDB, jQuery, PapaParse  | 2015 |
 
 
 ### Back end
@@ -72,3 +73,4 @@
 [15]: https://metacpan.org/release/Tribunais-TRTES
 [16]: https://metacpan.org/release/WWW-Kinghost-Painel
 [17]: https://github.com/web2solutions/PaypalREST
+[18]: https://github.com/web2solutions/Jumentix-Vue-UI
