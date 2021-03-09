@@ -45,9 +45,7 @@
 |  [Tribunais::TJES][14]  | OO, Perl, Mechanize, Xpath, Crawling | 2011 |
 |  [Tribunais::TRTES][15]  | OO, Perl, Mechanize, Xpath, Crawling | 2011 |
 |  [WWW::Kinghost::Painel][16]  | OO, Perl, DBI, Mechanize, Xpath, Crawling | 2011 |
-|  [DHTMLX-Perl][11]  | OO, Perl, DBI, DHTMLX, MS SQL, PostgreSQL, MySQL, Firebird, Apache, IIS, ASP, CGI, PSGI | 2012 |
-|  [DHTMLX::Connector][12]  | OO, Perl, DBI, DHTMLX, MS SQL, PostgreSQL, MySQL, Firebird, Apache, IIS, ASP, CGI, PSGI | 2011 |
-|  [DHTMLX::Core][13]  | OO, Perl, DBI, DHTMLX, MS SQL, PostgreSQL, MySQL, Firebird, Apache, IIS, ASP, CGI, PSGI | 2011 |
+|  [DHTMLX-Perl][11]  | OO, Perl, DBI, DHTMLX, MS SQL, PostgreSQL, MySQL, Firebird, Apache, IIS, ASP, CGI, PSGI | 2011 |
 
 
 
