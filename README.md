@@ -36,7 +36,7 @@
 
 | Repo                                    |  Technologies                 |  Date                 |
 | --------------------------------------- | ----------------------------- | ----------------------------- |
-|  [Jumentix][1]  |   | 2020|
+|  [Jumentix][1]  |   | 2018|
 |  [AgileREST][7]  |  OO, Perl, DBIx, Mojolicious, Redis, PostgreSQL, MS SQL, MySQL, Starman, Nginx, AWS EC2  | 2014 |
 |  [AgileWebsocket][8]  | Perl, Mojolicious, Redis, Websocket, Nginx, AWS EC2  | 2015 |
 |  [PerlTrello][9]  | Perl, Javascript, DHTMLX, Trello API, CGI, Apache | 2014 |
