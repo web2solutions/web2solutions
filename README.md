@@ -1,29 +1,11 @@
-# José Eduardo Almeida
-
-<br>
-
-  <a href="https://www.linkedin.com/in/eduardo-perotta-de-almeida/">
-    <img align="left" alt="José Eduardo Almeida | Linkedin" width="24px" src="https://github.com/web2solutions/web2solutions/blob/main/Linkedin.svg" />
-  </a>
-  <a href="mailto:web2solucoes@gmail.com">
-    <img align="left" alt="José Eduardo Almeida | Gmail" width="26px" src="https://github.com/web2solutions/web2solutions/blob/main/Gmail.svg" />
-  </a>
+# José Eduardo Almeida <a href="https://www.linkedin.com/in/eduardo-perotta-de-almeida/"> <img align="left" alt="José Eduardo Almeida | Linkedin" width="24px" src="https://github.com/web2solutions/web2solutions/blob/main/Linkedin.svg" /> </a> <a href="mailto:web2solucoes@gmail.com"> <img align="left" alt="José Eduardo Almeida | Gmail" width="26px" src="https://github.com/web2solutions/web2solutions/blob/main/Gmail.svg" /> </a>
 
 <br>
 
 
-
-
-<a href="https://github.com/web2solutions">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=web2solutions&show_icons=true&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-</a>
 <a href="https://github.com/web2solutions">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=web2solutions&langs_count=15&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
-
-
-
-
 
 
 <br><br>
@@ -60,7 +42,9 @@
 |  [DHTMLX-Perl][11]  | Perl, DBI, DHTMLX, MS SQL, PostgreSQL, MySQL, Firebird, Apache, IIS, ASP, CGI, PSGI, Object Oriented | 2011 |
 
 
-
+<a href="https://github.com/web2solutions">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=web2solutions&show_icons=true&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+</a>
 
 
 
