@@ -19,7 +19,7 @@
 </a>
 
 <a href="https://github.com/web2solutions">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=web2solutions&theme=dark&langs_count=10" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=web2solutions&theme=dark&langs_count=15" />
 </a>
 
 
