@@ -15,7 +15,7 @@
 
 
 <a href="https://github.com/web2solutions">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=web2solutions&show_icons=true&hide_border=true&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=web2solutions&show_icons=true&hide_border=true&theme=dark" />
 </a>
 <a href="https://github.com/web2solutions">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=web2solutions" />
