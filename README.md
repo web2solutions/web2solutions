@@ -13,6 +13,9 @@
 
 ![José Eduardo Almeida's github stats](https://github-readme-stats.vercel.app/api?username=web2solutions&show_icons=true&hide_border=true)
 
+[![José Eduardo Almeida's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=web2solutions)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <a href="https://github.com/web2solutions">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=web2solutions" />
 </a>
