@@ -19,7 +19,7 @@
 </a>
 
 <a href="https://github.com/web2solutions">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=web2solutions&theme=onedark&langs_count=15&layout=compact&hide=Perl 6,Shell" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=web2solutions&theme=onedark&langs_count=15&layout=compact" />
 </a>
 
 
