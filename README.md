@@ -15,11 +15,11 @@
 
 
 <a href="https://github.com/web2solutions">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=web2solutions&show_icons=true&theme=onedark&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=web2solutions&show_icons=true&theme=onedark&layout=compact&card_width=500" />
 </a>
 
 <a href="https://github.com/web2solutions">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=web2solutions&theme=onedark&langs_count=15&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=web2solutions&theme=onedark&langs_count=15&layout=compact&card_width=500" />
 </a>
 
 
