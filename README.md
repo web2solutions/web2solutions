@@ -47,6 +47,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=web2solutions&show_icons=true&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
 
+<a href="https://github.com/web2solutions">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=web2solutions&show_icons=true&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+</a>
+
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=web2solutions)](https://github.com/web2solutions)
 
 
 
