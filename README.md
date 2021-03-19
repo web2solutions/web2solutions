@@ -46,13 +46,9 @@
 <a href="https://github.com/web2solutions">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=web2solutions&show_icons=true&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
-
-
-
-
-[!Eduardo Almeida's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=web2solutions&layout=compact)](https://github.com/web2solutions)
-
-
+<a href="https://github.com/web2solutions">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=websolutions&layout=compact" />
+</a>
 
 
 [1]: https://web2solutions.github.io/voodux/code/index.html
