@@ -43,6 +43,11 @@
 |  [DHTMLX-Perl][11]  | Perl, DBI, DHTMLX, MS SQL, PostgreSQL, MySQL, Firebird, Apache, IIS, ASP, CGI, PSGI, Object Oriented | 2011 |
 
 
+### Learning
+| Repo                                    |  Technologies                 |  Date                 |
+| --------------------------------------- | ----------------------------- | ----------------------------- |
+|  [redis-em-5-minutos][22]  |  Redis, bash, Markdown  | 2021 |
+
 <a href="https://github.com/web2solutions">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=web2solutions&show_icons=true&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
@@ -72,3 +77,4 @@
 [19]: https://github.com/web2solutions/Jumentix
 [20]: https://github.com/web2solutions/accelerator-filesystem
 [21]: https://github.com/web2solutions/voodux-vue-vuex-demo
+[22]: https://web2solutions.github.io/redis-em-5-minutos/
