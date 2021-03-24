@@ -46,7 +46,7 @@
 ### Learning
 | Repo                                    |  Technologies                 |  Date                 |
 | --------------------------------------- | ----------------------------- | ----------------------------- |
-|  [redis-em-5-minutos][22] Learning redis for portuguese speakers  |  Redis, bash, Markdown  | 2021 |
+|  [redis-em-5-minutos][22] - `Learning Redis in 5 min` for portuguese speakers  |  Redis, bash, Markdown  | 2021 |
 
 <a href="https://github.com/web2solutions">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=web2solutions&show_icons=true&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
