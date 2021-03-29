@@ -79,13 +79,3 @@
 [21]: https://github.com/web2solutions/voodux-vue-vuex-demo
 [22]: https://web2solutions.github.io/redis-em-5-minutos/
 
-
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-B3MYKP6TTJ"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-B3MYKP6TTJ');
-</script>
