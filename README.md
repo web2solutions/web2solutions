@@ -18,6 +18,7 @@
 | --------------------------------------- | ----------------------------- | ----------------------------- |
 |  [VooduX][1]  |  ES8, Nodejs, babel, webpack, IndexeDB, Web and Service Workers, React, Vue, Cypress, JsDoc, TDD, DDD, Offline First, CASE, RAD, DRY, Event Driven Architecture, Event Sourcing | 2021|
 |  [Jumentix-Vue-UI][18]  |  ES6, Nodejs, Vue, Swagger, babel, webpack, IndexeDB, Vuetify, jQWidgets, Echarts, Material Design, Offline First, CASE, RAD, DRY | 2019 - 2020 |
+|  [Voodux x React Tic Tact Toe][2]  |  ES8, Nodejs, React, Hooks, Context API, React Router, Bootstrap, babel, webpack, Offline First, | 2021 |
 |  [Voodux x React demo #1][2]  |  ES8, Nodejs, React, Hooks, Context API, React Router, Material UI, Echarts, babel, webpack, Offline First, | 2021 |
 |  [Voodux x Vuejs x Vuex demo #1][21]  |  ES8, Nodejs, Vue, Vuex, Vue Router, Lazy loading, Bootstrap 4, Echarts, babel, webpack, Offline First,  | 2021 |
 |  [Voodux x Vuejs demo #2][3]  |  ES8, Nodejs, Vue, Vue Router, Lazy loading, Bootstrap 4, Echarts, babel, webpack, Offline First,  | 2021 |
@@ -78,4 +79,5 @@
 [20]: https://github.com/web2solutions/accelerator-filesystem
 [21]: https://github.com/web2solutions/voodux-vue-vuex-demo
 [22]: https://web2solutions.github.io/redis-em-5-minutos/
+[24]: https://github.com/web2solutions/voodux-react-tic-tac-toe
 
