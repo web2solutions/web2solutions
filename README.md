@@ -1,8 +1,5 @@
 # José Eduardo Almeida <a href="https://www.linkedin.com/in/eduardo-perotta-de-almeida/"> <img align="left" alt="José Eduardo Almeida | Linkedin" width="24px" src="https://github.com/web2solutions/web2solutions/blob/main/Linkedin.svg" /> </a> <a href="mailto:web2solucoes@gmail.com"> <img align="left" alt="José Eduardo Almeida | Gmail" width="26px" src="https://github.com/web2solutions/web2solutions/blob/main/Gmail.svg" /> </a>
 
-<br>
-
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=web2solutions)
 
 <br>
 
@@ -61,6 +58,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=web2solutions&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
 
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=web2solutions)
 
 [1]: https://web2solutions.github.io/voodux/code/index.html
 [2]: https://github.com/web2solutions/voodux-react-context-api-demo
