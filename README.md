@@ -2,13 +2,16 @@
 
 <br>
 
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=web2solutions)
+
+<br>
+
 <p align="left">
 <a href="https://github.com/web2solutions">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=web2solutions&count_private=true&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=web2solutions&layout=compact&langs_count=8"/>
 </a>
 </p>
-
 
 
 
@@ -53,9 +56,7 @@
 | --------------------------------------- | ----------------------------- | ----------------------------- |
 |  [redis-em-5-minutos][22] - `Learning Redis in 5 min` for portuguese speakers  |  Redis, bash, Markdown  | 2021 |
 
-<a href="https://github.com/web2solutions">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=web2solutions&show_icons=true&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-</a>
+
 <a href="https://wakatime.com/@web2solutions">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=web2solutions&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
