@@ -61,7 +61,7 @@
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=web2solutions)
 
 
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=GuillaumeFalourd&repo=GuillaumeFalourd&countColorcountColor)
+![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=web2solutions&repo=web2solutions&countColorcountColor)
 
 [1]: https://web2solutions.github.io/voodux/code/index.html
 [2]: https://github.com/web2solutions/voodux-react-context-api-demo
