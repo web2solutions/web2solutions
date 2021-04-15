@@ -55,7 +55,7 @@
 
 
 <a href="https://wakatime.com/@web2solutions">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=web2solutions&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=web2solutions&layout=compact" />
 </a>
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=web2solutions)
