@@ -2,10 +2,14 @@
 
 <br>
 
-
+<p align="left">
 <a href="https://github.com/web2solutions">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=web2solutions&langs_count=15&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=web2solutions&count_private=true&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=web2solutions&layout=compact&langs_count=8"/>
 </a>
+</p>
+
+
 
 
 <br><br>
