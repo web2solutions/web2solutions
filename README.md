@@ -11,7 +11,7 @@
 </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=web2solutions&column=7" alt="web2solutions" /></a> </p>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=web2solutions&column=7" alt="web2solutions" /></p>
 
 - 📫 How to reach me **web2solucoes@gmail.com**
 
