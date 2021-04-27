@@ -2,7 +2,8 @@
 
 <br>
 
-![Metrics](https://metrics.lecoq.io/web2solutions)
+![Metrics](https://metrics.lecoq.io/web2solutions?template=classic&repositories=500&isocalendar=1&languages=1&gists=1&followup=1&achievements=1&activity=1&lines=1&isocalendar.duration=full-year&languages.ignored=shell%2C%20css%2C%20html%2C%20smarty%2C%20php%2C%20asp%2C%20stylus&languages.limit=8&languages.colors=github&languages.threshold=0%25&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=America%2FSao_Paulo)
+
 
 <br>
 
