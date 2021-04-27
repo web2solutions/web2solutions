@@ -1,11 +1,5 @@
 # José Eduardo Almeida <a href="https://www.linkedin.com/in/eduardo-perotta-de-almeida/"> <img align="left" alt="José Eduardo Almeida | Linkedin" width="24px" src="https://github.com/web2solutions/web2solutions/blob/main/Linkedin.svg" /> </a> <a href="mailto:web2solucoes@gmail.com"> <img align="left" alt="José Eduardo Almeida | Gmail" width="26px" src="https://github.com/web2solutions/web2solutions/blob/main/Gmail.svg" /> </a>
 
-<br>
-
-![Metrics](https://metrics.lecoq.io/web2solutions?template=classic&repositories=500&isocalendar=1&languages=1&gists=1&followup=1&achievements=1&activity=1&lines=1&isocalendar.duration=full-year&languages.ignored=shell%2C%20css%2C%20html%2C%20smarty%2C%20php%2C%20asp%2C%20stylus&languages.limit=8&languages.colors=github&languages.threshold=0%25&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=America%2FSao_Paulo)
-
-
-<br>
 
 <p align="left">
 <a href="https://github.com/web2solutions">
@@ -99,4 +93,10 @@
 [22]: https://web2solutions.github.io/redis-em-5-minutos/
 [24]: https://github.com/web2solutions/voodux-react-tic-tac-toe
 [25]: https://github.com/web2solutions/skix
+
+
+<br>
+
+![Metrics](https://metrics.lecoq.io/web2solutions?template=classic&repositories=500&isocalendar=1&languages=1&gists=1&followup=1&achievements=1&activity=1&lines=1&isocalendar.duration=full-year&languages.ignored=shell%2C%20css%2C%20html%2C%20smarty%2C%20php%2C%20asp%2C%20stylus&languages.limit=8&languages.colors=github&languages.threshold=0%25&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=America%2FSao_Paulo)
+
 
