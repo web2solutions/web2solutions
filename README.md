@@ -4,7 +4,7 @@
 <p align="left">
 <a href="https://github.com/web2solutions">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=web2solutions&count_private=true&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=web2solutions&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=web2solutions&hide=shell&layout=compact&langs_count=16"/>
 </a>
 </p>
 
