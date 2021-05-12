@@ -2653,7 +2653,7 @@ https://app.snyk.io/org/web2solutions/project/7d5228b5-9877-414f-a9ad-b6fa169704
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="159.53842396071155 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="159.54170658016236 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -3082,7 +3082,7 @@ https://app.snyk.io/org/web2solutions/project/7d5228b5-9877-414f-a9ad-b6fa169704
             </section>
             <footer>
                 <span>These metrics do not include all private contributions, timezone America/Sao_Paulo</span>
-                <span>Last updated Wed, 12 May 2021 03:19:26 GMT with lowlighter/metrics@3.9.0</span>
+                <span>Last updated Wed, 12 May 2021 04:15:32 GMT with lowlighter/metrics@3.9.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
