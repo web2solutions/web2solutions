@@ -4,7 +4,7 @@
 <p align="left">
 <a href="https://github.com/web2solutions">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=web2solutions&count_private=true&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=web2solutions&hide=shell,php,perl6&layout=compact&langs_count=16"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=web2solutions&hide=shell,php,perl6,html,smarty&layout=compact&langs_count=16"/>
 </a>
 </p>
 
@@ -61,7 +61,7 @@
 
 
 <a href="https://wakatime.com/@web2solutions">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=web2solutions&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=web2solutions&layout=compact&hide=shell,php,perl6,html,smarty,yaml,toml,text,asciidoc,other" />
 </a>
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=web2solutions)
