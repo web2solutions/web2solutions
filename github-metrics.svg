@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2036" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2020" class="">
     <defs>
         <style/>
     </defs>
@@ -1443,7 +1443,7 @@
                                     <div class="content">
                                         Deleted
                       branch
-                                        <span class="code">snyk-upgrade-ce589420545c1d560e4dc77a42e13786</span>
+                                        <span class="code">snyk-upgrade-29d95a27b94f0bd741f3d56d42f932f5</span>
                                         in
                                         <span class="repo">web2solutions/Jumentix</span>
                                     </div>
@@ -1462,15 +1462,15 @@
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">snyk-upgrade-ce589420545c1d560e4dc77a42e13786</span></div>
+                                    <div>on branch <span class="code">snyk-upgrade-29d95a27b94f0bd741f3d56d42f932f5</span></div>
                                     <div class="commit">
-                                        <span class="sha">#c23ec52</span>
-                                        <span class="message">fix: upgrade nodemailer from 6.4.16 to 6.7.2
+                                        <span class="sha">#d4cb3c4</span>
+                                        <span class="message">fix: upgrade pm2 from 4.3.0 to 4.5.6
 
-Snyk has created this PR to upgrade nodemailer from 6.4.16 to 6.7.2.
+Snyk has created this PR to upgrade pm2 from 4.3.0 to 4.5.6.
 
 See this package in npm:
-https://www.npmjs.com/package/nodemailer
+https://www.npmjs.com/package/pm2
 
 See this project in Snyk:
 https://app.snyk.io/org/web2solutions/project/cbb0333f-7bad-43c5-8879-cecbab3df68b?utm_source=github&amp;utm_medium=referral&amp;page=upgrade-pr</span>
@@ -1487,7 +1487,7 @@ https://app.snyk.io/org/web2solutions/project/cbb0333f-7bad-43c5-8879-cecbab3df6
                                     <div class="content">
                                         Created new
                       branch
-                                        <span class="code">snyk-upgrade-ce589420545c1d560e4dc77a42e13786</span>
+                                        <span class="code">snyk-upgrade-29d95a27b94f0bd741f3d56d42f932f5</span>
                                         in
                                         <span class="repo">web2solutions/Jumentix</span>
                                     </div>
@@ -1503,7 +1503,7 @@ https://app.snyk.io/org/web2solutions/project/cbb0333f-7bad-43c5-8879-cecbab3df6
                                     <div class="content">
                                         Deleted
                       branch
-                                        <span class="code">snyk-upgrade-ce589420545c1d560e4dc77a42e13786</span>
+                                        <span class="code">snyk-fix-faf0d3872485e73084acc09076b29b10</span>
                                         in
                                         <span class="repo">web2solutions/Jumentix</span>
                                     </div>
@@ -1522,18 +1522,14 @@ https://app.snyk.io/org/web2solutions/project/cbb0333f-7bad-43c5-8879-cecbab3df6
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">snyk-upgrade-ce589420545c1d560e4dc77a42e13786</span></div>
+                                    <div>on branch <span class="code">snyk-fix-faf0d3872485e73084acc09076b29b10</span></div>
                                     <div class="commit">
-                                        <span class="sha">#2fcad29</span>
-                                        <span class="message">fix: upgrade nodemailer from 6.4.16 to 6.7.2
+                                        <span class="sha">#a72bdd9</span>
+                                        <span class="message">fix: package.json to reduce vulnerabilities
 
-Snyk has created this PR to upgrade nodemailer from 6.4.16 to 6.7.2.
-
-See this package in npm:
-https://www.npmjs.com/package/nodemailer
-
-See this project in Snyk:
-https://app.snyk.io/org/web2solutions/project/cbb0333f-7bad-43c5-8879-cecbab3df68b?utm_source=github&amp;utm_medium=referral&amp;page=upgrade-pr</span>
+The following vulnerabilities are fixed with an upgrade:
+- https://snyk.io/vuln/SNYK-JS-FOLLOWREDIRECTS-2332181
+- https://snyk.io/vuln/SNYK-JS-SHELLJS-2332187</span>
                                     </div>
                                 </div>
                             </section>
@@ -2159,7 +2155,7 @@ https://app.snyk.io/org/web2solutions/project/cbb0333f-7bad-43c5-8879-cecbab3df6
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 12 Jan 2022, 18:07:29 (timezone America/Sao_Paulo) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 12 Jan 2022, 19:08:10 (timezone America/Sao_Paulo) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
