@@ -1588,7 +1588,7 @@ The following vulnerabilities are fixed with an upgrade:
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 37.9k out of 85m users</span>
+                                    <span class="gh">ranked 37.9k out of 86m users</span>
                                 </div>
                                 <div class="text">Published 197 public repositories</div>
                             </div>
@@ -1809,7 +1809,7 @@ The following vulnerabilities are fixed with an upgrade:
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 103k out of 85m users</span>
+                                    <span class="gh">ranked 103k out of 86m users</span>
                                 </div>
                                 <div class="text">Followed by 66 users</div>
                             </div>
@@ -2123,7 +2123,7 @@ The following vulnerabilities are fixed with an upgrade:
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Feb 2022, 03:02:18 (timezone America/Sao_Paulo) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 25 Feb 2022, 04:02:10 (timezone America/Sao_Paulo) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
