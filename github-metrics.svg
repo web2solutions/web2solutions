@@ -1444,7 +1444,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">snyk-upgrade-33e54e8657b6642ed6ba5890b48cbde8</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c12a4f5</div>
+                                        <div class="sha">#a4b9bb7</div>
                                         <div class="message">fix: upgrade nodemailer from 6.4.16 to 6.7.5
 
 Snyk has created this PR to upgrade nodemailer from 6.4.16 to 6.7.5.
@@ -1504,7 +1504,7 @@ https://app.snyk.io/org/web2solutions/project/cbb0333f-7bad-43c5-8879-cecbab3df6
                                 <div class="details">
                                     <div>on branch <span class="code">snyk-upgrade-33e54e8657b6642ed6ba5890b48cbde8</span></div>
                                     <div class="commit">
-                                        <div class="sha">#768f74d</div>
+                                        <div class="sha">#c12a4f5</div>
                                         <div class="message">fix: upgrade nodemailer from 6.4.16 to 6.7.5
 
 Snyk has created this PR to upgrade nodemailer from 6.4.16 to 6.7.5.
@@ -2139,7 +2139,7 @@ https://app.snyk.io/org/web2solutions/project/cbb0333f-7bad-43c5-8879-cecbab3df6
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 Jul 2022, 01:19:37 (timezone America/Sao_Paulo) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 18 Jul 2022, 02:11:58 (timezone America/Sao_Paulo) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
