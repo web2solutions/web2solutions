@@ -1433,6 +1433,22 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      branch
+                                        <span class="code">snyk-upgrade-a1a06235840e2ff0cfbdcc3ae394e581</span>
+                                        in
+                                        <span class="repo">web2solutions/Jumentix</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
@@ -1443,7 +1459,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">snyk-upgrade-a1a06235840e2ff0cfbdcc3ae394e581</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a6b0e90</div>
+                                        <div class="sha">#0511abf</div>
                                         <div class="message">fix: upgrade nodemailer from 6.4.16 to 6.7.8
 
 Snyk has created this PR to upgrade nodemailer from 6.4.16 to 6.7.8.
@@ -1453,22 +1469,6 @@ https://www.npmjs.com/package/nodemailer
 
 See this project in Snyk:
 https://app.snyk.io/org/web2solutions/project/cbb0333f-7bad-43c5-8879-cecbab3df68b?utm_source=github&amp;utm_medium=referral&amp;page=upgrade-pr</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      branch
-                                        <span class="code">snyk-upgrade-a1a06235840e2ff0cfbdcc3ae394e581</span>
-                                        in
-                                        <span class="repo">web2solutions/Jumentix</span>
                                     </div>
                                 </div>
                             </section>
@@ -1503,7 +1503,7 @@ https://app.snyk.io/org/web2solutions/project/cbb0333f-7bad-43c5-8879-cecbab3df6
                                 <div class="details">
                                     <div>on branch <span class="code">snyk-upgrade-a1a06235840e2ff0cfbdcc3ae394e581</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2d19bd3</div>
+                                        <div class="sha">#a6b0e90</div>
                                         <div class="message">fix: upgrade nodemailer from 6.4.16 to 6.7.8
 
 Snyk has created this PR to upgrade nodemailer from 6.4.16 to 6.7.8.
@@ -2138,7 +2138,7 @@ https://app.snyk.io/org/web2solutions/project/cbb0333f-7bad-43c5-8879-cecbab3df6
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 Oct 2022, 23:55:06 (timezone America/Sao_Paulo) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 9 Oct 2022, 00:45:59 (timezone America/Sao_Paulo) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
