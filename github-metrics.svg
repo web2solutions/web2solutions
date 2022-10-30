@@ -1395,6 +1395,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-10.2, 12)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -1438,7 +1443,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">snyk-upgrade-424b9236bbfde711aad75c34149ddffb</span></div>
                                     <div class="commit">
-                                        <div class="sha">#27d77cd</div>
+                                        <div class="sha">#863a8fe</div>
                                         <div class="message">fix: upgrade nodemailer from 6.4.16 to 6.8.0
 
 Snyk has created this PR to upgrade nodemailer from 6.4.16 to 6.8.0.
@@ -1498,7 +1503,7 @@ https://app.snyk.io/org/web2solutions/project/cbb0333f-7bad-43c5-8879-cecbab3df6
                                 <div class="details">
                                     <div>on branch <span class="code">snyk-upgrade-424b9236bbfde711aad75c34149ddffb</span></div>
                                     <div class="commit">
-                                        <div class="sha">#60e09b2</div>
+                                        <div class="sha">#27d77cd</div>
                                         <div class="message">fix: upgrade nodemailer from 6.4.16 to 6.8.0
 
 Snyk has created this PR to upgrade nodemailer from 6.4.16 to 6.8.0.
@@ -2133,7 +2138,7 @@ https://app.snyk.io/org/web2solutions/project/cbb0333f-7bad-43c5-8879-cecbab3df6
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 Oct 2022, 20:02:33 (timezone America/Sao_Paulo) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 29 Oct 2022, 21:07:23 (timezone America/Sao_Paulo) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
