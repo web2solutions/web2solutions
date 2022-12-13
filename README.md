@@ -64,10 +64,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=web2solutions&layout=compact&hide=shell,php,perl6,html,smarty,yaml,toml,text,asciidoc,other" />
 </a>
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=web2solutions)
 
-
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=web2solutions&repo=web2solutions&countColorcountColor)
 
 [1]: https://web2solutions.github.io/voodux/code/index.html
 [2]: https://github.com/web2solutions/voodux-react-context-api-demo
@@ -95,8 +92,5 @@
 [25]: https://github.com/web2solutions/skix
 
 
-<br>
-
-![Metrics](https://metrics.lecoq.io/web2solutions?template=classic&repositories=500&isocalendar=1&languages=1&gists=1&followup=1&achievements=1&activity=1&lines=1&isocalendar.duration=full-year&languages.ignored=shell%2C%20css%2C%20html%2C%20smarty%2C%20php%2C%20asp%2C%20stylus&languages.limit=8&languages.colors=github&languages.threshold=0%25&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=America%2FSao_Paulo)
 
 
