@@ -1438,7 +1438,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">snyk-upgrade-0357471e779c993091ad3c08c719b65f</span></div>
                                     <div class="commit">
-                                        <div class="sha">#8fc91d7</div>
+                                        <div class="sha">#4337d2d</div>
                                         <div class="message">fix: upgrade nodemailer from 6.4.16 to 6.9.0
 
 Snyk has created this PR to upgrade nodemailer from 6.4.16 to 6.9.0.
@@ -1477,7 +1477,7 @@ https://app.snyk.io/org/web2solutions/project/cbb0333f-7bad-43c5-8879-cecbab3df6
                                     <div class="content">
                                         Deleted
                       branch
-                                        <span class="code">snyk-upgrade-424b9236bbfde711aad75c34149ddffb</span>
+                                        <span class="code">snyk-upgrade-0357471e779c993091ad3c08c719b65f</span>
                                         in
                                         <span class="repo">web2solutions/Jumentix</span>
                                     </div>
@@ -1496,12 +1496,12 @@ https://app.snyk.io/org/web2solutions/project/cbb0333f-7bad-43c5-8879-cecbab3df6
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">snyk-upgrade-424b9236bbfde711aad75c34149ddffb</span></div>
+                                    <div>on branch <span class="code">snyk-upgrade-0357471e779c993091ad3c08c719b65f</span></div>
                                     <div class="commit">
-                                        <div class="sha">#42bf32f</div>
-                                        <div class="message">fix: upgrade nodemailer from 6.4.16 to 6.8.0
+                                        <div class="sha">#8fc91d7</div>
+                                        <div class="message">fix: upgrade nodemailer from 6.4.16 to 6.9.0
 
-Snyk has created this PR to upgrade nodemailer from 6.4.16 to 6.8.0.
+Snyk has created this PR to upgrade nodemailer from 6.4.16 to 6.9.0.
 
 See this package in npm:
 https://www.npmjs.com/package/nodemailer
@@ -1976,7 +1976,7 @@ https://app.snyk.io/org/web2solutions/project/cbb0333f-7bad-43c5-8879-cecbab3df6
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.01m out of 374m repositories</span>
+                                    <span class="gh">ranked 1.95m out of 374m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 7 stars</div>
                             </div>
@@ -2133,7 +2133,7 @@ https://app.snyk.io/org/web2solutions/project/cbb0333f-7bad-43c5-8879-cecbab3df6
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Feb 2023, 22:29:31 (timezone America/Sao_Paulo) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 3 Feb 2023, 23:20:41 (timezone America/Sao_Paulo) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
