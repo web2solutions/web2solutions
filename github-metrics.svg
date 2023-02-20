@@ -1831,7 +1831,7 @@ https://app.snyk.io/org/web2solutions/project/cbb0333f-7bad-43c5-8879-cecbab3df6
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 129k out of 109m users</span>
+                                    <span class="gh">ranked 128k out of 109m users</span>
                                 </div>
                                 <div class="text">Followed by 69 users</div>
                             </div>
@@ -1950,7 +1950,7 @@ https://app.snyk.io/org/web2solutions/project/cbb0333f-7bad-43c5-8879-cecbab3df6
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.90m out of 378m repositories</span>
+                                    <span class="gh">ranked 2.82m out of 378m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -1988,7 +1988,7 @@ https://app.snyk.io/org/web2solutions/project/cbb0333f-7bad-43c5-8879-cecbab3df6
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.06m out of 378m repositories</span>
+                                    <span class="gh">ranked 2m out of 378m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 7 stars</div>
                             </div>
@@ -2145,7 +2145,7 @@ https://app.snyk.io/org/web2solutions/project/cbb0333f-7bad-43c5-8879-cecbab3df6
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Feb 2023, 12:02:23 (timezone America/Sao_Paulo) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 20 Feb 2023, 13:02:55 (timezone America/Sao_Paulo) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
