@@ -18,7 +18,7 @@
 | Repo                                    |  Technologies                 |  Date                 |
 | --------------------------------------- | ----------------------------- | ----------------------------- |
 |  [redis-em-5-minutos][22] - `Learning Redis in 5 min` for portuguese speakers  |  Redis, bash, Markdown  | 2021 |
-|  [ds-ts][23] - `Estrutura de dados usando TypeScript` for portuguese speakers  |  Typescript, Queues, Stacks, Tries, Heaps  | 2023 |
+|  [ds-ts][23] - `Data structures leveraging TypeScript.` for portuguese speakers  |  Typescript, Queues, Stacks, Tries, Heaps  | 2023 |
 
 ### Front End
 
