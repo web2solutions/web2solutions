@@ -20,7 +20,7 @@
 | Repo                                    |  Technologies                 |  Date                 |
 | --------------------------------------- | ----------------------------- | ----------------------------- |
 |  [redis-em-5-minutos][22] - `Learning Redis in 5 min` for portuguese speakers  |  Redis, bash, Markdown  | 2021 |
-|  [ds-ts][23] - `Estrutura de dados usando TypeScript` for portuguese speakers  |  Redis, bash, Markdown  | 2021 |
+|  [ds-ts][23] - `Estrutura de dados usando TypeScript` for portuguese speakers  |  Typescript, Queues, Stacks, Tries, Heaps  | 2023 |
 
 ### Front End
 
@@ -64,8 +64,6 @@
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=web2solutions)
 
-
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=web2solutions&repo=web2solutions&countColorcountColor)
 
 [1]: https://web2solutions.github.io/voodux/code/index.html
 [2]: https://github.com/web2solutions/voodux-react-context-api-demo
