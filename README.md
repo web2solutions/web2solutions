@@ -3,7 +3,7 @@
 
 <p align="left">
 <a href="https://github.com/web2solutions">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=web2solutions&hide=shell,php,perl6,html,raku,stylus,asp,smarty&layout=compact&langs_count=16"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=web2solutions&hide=shell,php,perl6,html,raku,stylus,css,asp,smarty&layout=compact&langs_count=16"/>
 </a>
 </p>
 
