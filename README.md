@@ -7,6 +7,11 @@
 </a>
 </p>
 
+<a href="https://wakatime.com/@web2solutions">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=web2solutions&layout=compact&hide=shell,php,perl6,html,smarty,yaml,toml,text,asciidoc,other" />
+</a>
+
+
 
 - 📫 How to reach me **web2solucoes@gmail.com**
 
@@ -52,12 +57,6 @@
 |  [DHTMLX-Perl][11]  | Perl, DBI, DHTMLX, MS SQL, PostgreSQL, MySQL, Firebird, Apache, IIS, ASP, CGI, PSGI, Object Oriented | 2011 |
 
 
-
-
-
-<a href="https://wakatime.com/@web2solutions">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=web2solutions&layout=compact&hide=shell,php,perl6,html,smarty,yaml,toml,text,asciidoc,other" />
-</a>
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=web2solutions)
 
