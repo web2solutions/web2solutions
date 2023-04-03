@@ -8,7 +8,7 @@
 </p>
 
 <a href="https://wakatime.com/@web2solutions">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=web2solutions&layout=compact&hide=shell,php,perl6,html,smarty,yaml,toml,text,asciidoc,other" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=web2solutions&layout=compact&hide=shell,php,perl6,html,smarty,yaml,toml,text,asciidoc,ini,tsconfig,charmci,scss,batchfile,other" />
 </a>
 
 
