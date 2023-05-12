@@ -1818,7 +1818,7 @@ https://app.snyk.io/org/web2solutions/project/301a2c05-b53c-49b9-a98f-7457630bca
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 136k out of 115m users</span>
+                                    <span class="gh">ranked 135k out of 115m users</span>
                                 </div>
                                 <div class="text">Followed by 70 users</div>
                             </div>
@@ -2132,7 +2132,7 @@ https://app.snyk.io/org/web2solutions/project/301a2c05-b53c-49b9-a98f-7457630bca
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 12 May 2023, 17:02:41 (timezone America/Sao_Paulo) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 12 May 2023, 18:02:09 (timezone America/Sao_Paulo) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
