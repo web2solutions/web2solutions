@@ -1644,7 +1644,7 @@ https://app.snyk.io/org/web2solutions/project/301a2c05-b53c-49b9-a98f-7457630bca
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="63.612594113620816 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="63.697467488021886 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1937,7 +1937,7 @@ https://app.snyk.io/org/web2solutions/project/301a2c05-b53c-49b9-a98f-7457630bca
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.17m out of 400m repositories</span>
+                                    <span class="gh">ranked 3.10m out of 400m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -2132,7 +2132,7 @@ https://app.snyk.io/org/web2solutions/project/301a2c05-b53c-49b9-a98f-7457630bca
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 12 May 2023, 13:02:38 (timezone America/Sao_Paulo) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 12 May 2023, 14:02:16 (timezone America/Sao_Paulo) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
