@@ -1,11 +1,7 @@
 # José Eduardo Almeida <a href="https://www.linkedin.com/in/eduardo-perotta-de-almeida/"> <img align="left" alt="José Eduardo Almeida | Linkedin" width="24px" src="https://github.com/web2solutions/web2solutions/blob/main/Linkedin.svg" /> </a> <a href="mailto:web2solucoes@gmail.com"> <img align="left" alt="José Eduardo Almeida | Gmail" width="26px" src="https://github.com/web2solutions/web2solutions/blob/main/Gmail.svg" /> </a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=web2solutions&hide=shell,powershell,php,perl6,html,raku,stylus,css,asp,smarty&layout=compact&langs_count=16)](https://github.com/web2solutions)
 
-<p align="left">
-<a href="https://github.com/web2solutions">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=web2solutions&hide=shell,powershell,php,perl6,html,raku,stylus,css,asp,smarty&layout=compact&langs_count=16"/>
-</a>
-</p>
 
 <a href="https://wakatime.com/@web2solutions">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=web2solutions&layout=compact&hide=shell,php,perl6,html,smarty,yaml,toml,text,asciidoc,ini,tsconfig,charmci,scss,batchfile,other" />
