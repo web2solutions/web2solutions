@@ -38,7 +38,7 @@
 
 | Repo                                    |  Technologies                 |  Date                 |
 | --------------------------------------- | ----------------------------- | ----------------------------- |
-|  [arithmetic-calculator-ui][20]  |  Typescript, Node.js, Jest, MongoDB, Redis, AWS Lambda, Serverless, Docker, TDD, DDD  | 2023 |
+|  [arithmetic-calculator-ui][27]  |  Typescript, Node.js, Jest, MongoDB, Redis, AWS Lambda, Serverless, Docker, TDD, DDD  | 2023 |
 |  [accelerator-filesystem][20]  |  ES8, Node.js, Express, Mocha, GraphQL, jsDoc, Docker, TDD, DDD  | 2021 |
 |  [Jumentix][19]  |  ES6,  Nodejs, Mongoose, Sequelize, Express, Socket.io, pm2, Mocha, MongoDB, Redis, MS SQL, RabbitMQ, Apache Cassandra, Elastic Search, Swagger, , AWS EC2, Event Sourcing, CASE, RAD, DRY | 2019 - 2020|
 |  [AgileREST][7]  |  Perl, DBIx, Mojolicious, Redis, PostgreSQL, MS SQL, MySQL, Starman, Nginx, AWS EC2, CASE, RAD, DRY, Object Oriented  | 2014 |
