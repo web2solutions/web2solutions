@@ -21,6 +21,7 @@
 
 | Repo                                    |  Technologies, Paradigms                 |  Date                 |
 | --------------------------------------- | ----------------------------- | ----------------------------- |
+|  [arithmetic-calculator-ui][1]  |  ES8, Nodejs, Vue, Cypress, TDD, Docker, Vercel | 2023|
 |  [VooduX][1]  |  ES8, Nodejs, babel, webpack, IndexeDB, Web and Service Workers, React, Vue, Cypress, JsDoc, TDD, DDD, Offline First, CASE, RAD, DRY, Event Driven Architecture, Event Sourcing | 2021|
 |  [Jumentix-Vue-UI][18]  |  ES6, Nodejs, Vue, Swagger, babel, webpack, IndexeDB, Vuetify, jQWidgets, Echarts, Material Design, Offline First, CASE, RAD, DRY | 2019 - 2020 |
 |  [SkiX - Javascript SkiFree Game][25]  |  ES8, Nodejs, Canvas, babel, webpack, Offline First, NoSQL, TDD, Visual Testing | 2021 |
@@ -37,6 +38,7 @@
 
 | Repo                                    |  Technologies                 |  Date                 |
 | --------------------------------------- | ----------------------------- | ----------------------------- |
+|  [arithmetic-calculator-ui][20]  |  Typescript, Node.js, Jest, MongoDB, Redis, AWS Lambda, Serverless, Docker, TDD, DDD  | 2023 |
 |  [accelerator-filesystem][20]  |  ES8, Node.js, Express, Mocha, GraphQL, jsDoc, Docker, TDD, DDD  | 2021 |
 |  [Jumentix][19]  |  ES6,  Nodejs, Mongoose, Sequelize, Express, Socket.io, pm2, Mocha, MongoDB, Redis, MS SQL, RabbitMQ, Apache Cassandra, Elastic Search, Swagger, , AWS EC2, Event Sourcing, CASE, RAD, DRY | 2019 - 2020|
 |  [AgileREST][7]  |  Perl, DBIx, Mojolicious, Redis, PostgreSQL, MS SQL, MySQL, Starman, Nginx, AWS EC2, CASE, RAD, DRY, Object Oriented  | 2014 |
@@ -79,3 +81,5 @@
 [23]: https://github.com/web2solutions/ds-ts
 [24]: https://github.com/web2solutions/voodux-react-tic-tac-toe
 [25]: https://github.com/web2solutions/skix
+[26]: https://github.com/web2solutions/arithmetic-calculator-ui
+[27]: https://github.com/web2solutions/arithmetic-calculator-api
