@@ -1,6 +1,6 @@
 # José Eduardo Almeida <a href="https://www.linkedin.com/in/eduardo-perotta-de-almeida/"> <img align="left" alt="José Eduardo Almeida | Linkedin" width="24px" src="https://github.com/web2solutions/web2solutions/blob/main/Linkedin.svg" /> </a> <a href="mailto:web2solucoes@gmail.com"> <img align="left" alt="José Eduardo Almeida | Gmail" width="26px" src="https://github.com/web2solutions/web2solutions/blob/main/Gmail.svg" /> </a>
 
-<table>
+<table border="0">
 <tr>
   <td>
     <a href="https://wakatime.com/@web2solutions">
