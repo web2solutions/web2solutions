@@ -4,7 +4,7 @@
 <tr>
   <td>
     <a href="https://wakatime.com/@web2solutions">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=web2solutions&layout=compact&hide=css,actionscript,shell,php,gitconfig,html,smarty,yaml,toml,text,asciidoc,ini,tsconfig,charmci,scss,batchfile,other" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=web2solutions&layout=compact&hide=css,actionscript&nbsp3,shell,php,git&nbspconfig,html,smarty,yaml,toml,text,asciidoc,ini,tsconfig,charmci,scss,batchfile,other" />
     </a>
   </td>
   <td>
