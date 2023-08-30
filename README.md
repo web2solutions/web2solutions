@@ -4,7 +4,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=web2solutions&layout=compact&hide=shell,php,perl6,html,smarty,yaml,toml,text,asciidoc,ini,tsconfig,charmci,scss,batchfile,other" />
 </a>
 
-<img align="center" src="https://generic-access-counter.vercel.app/api/counter-text" />
+<a href="https://github.com/web2solutions/generic-access-counter">
+  <img align="center" src="https://generic-access-counter.vercel.app/api/counter-text" />
+</a>
 
 
 
