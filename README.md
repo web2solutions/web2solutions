@@ -4,7 +4,7 @@
 <tr>
   <td>
     <a href="https://wakatime.com/@web2solutions">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=web2solutions&layout=compact&hide=css,actionscript&nbsp3,shell,php,git&nbspconfig,html,smarty,yaml,toml,text,asciidoc,ini,tsconfig,charmci,scss,batchfile,other" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=web2solutions&layout=compact&hide=css,actionscript,shell,php,html,smarty,yaml,toml,text,asciidoc,ini,tsconfig,charmci,scss,batchfile,other" />
     </a>
   </td>
   <td>
@@ -24,16 +24,17 @@
 
 ## Some repositories:
 
-### Learning
+### Tutorials
 | Repo                                    |  Technologies                 |  Date                 |
 | --------------------------------------- | ----------------------------- | ----------------------------- |
 |  [redis-em-5-minutos][22] - `Learning Redis in 5 min` for portuguese speakers  |  Redis, bash, Markdown  | 2021 |
 |  [ds-ts][23] - `Data structures leveraging TypeScript.` for portuguese speakers  |  Typescript, Queues, Stacks, Tries, Heaps  | 2023 |
 
-### Front End
+### Front End projects
 
 | Repo                                    |  Technologies, Paradigms                 |  Date                 |
 | --------------------------------------- | ----------------------------- | ----------------------------- |
+|  [Domain Designer][28]  | Typescript, Nodejs, Vue, Cypress, TDD, DDD, Clean Architecture, Hexagonal Architecture, OAS, Rapid Development, | 2023|
 |  [arithmetic-calculator-ui][26]  |  ES8, Nodejs, Vue, Cypress, TDD, Docker, Vercel | 2023|
 |  [VooduX][1]  |  ES8, Nodejs, babel, webpack, IndexeDB, Web and Service Workers, React, Vue, Cypress, JsDoc, TDD, DDD, Offline First, CASE, RAD, DRY, Event Driven Architecture, Event Sourcing | 2021|
 |  [Jumentix-Vue-UI][18]  |  ES6, Nodejs, Vue, Swagger, babel, webpack, IndexeDB, Vuetify, jQWidgets, Echarts, Material Design, Offline First, CASE, RAD, DRY | 2019 - 2020 |
@@ -47,7 +48,7 @@
 |  [csvViewer][6]  |  Nodejs, DHTMLX, IndexedDB, jQuery, PapaParse  | 2015 |
 
 
-### Back end
+### Back end projects
 
 | Repo                                    |  Technologies                 |  Date                 |
 | --------------------------------------- | ----------------------------- | ----------------------------- |
@@ -96,3 +97,4 @@
 [25]: https://github.com/web2solutions/skix
 [26]: https://github.com/web2solutions/arithmetic-calculator-ui
 [27]: https://github.com/web2solutions/arithmetic-calculator-api
+[28]: https://github.com/web2solutions/domain-designer
