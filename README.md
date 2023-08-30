@@ -22,10 +22,6 @@
 </a>
 
 
-
-- 📫 How to reach me **web2solucoes@gmail.com**
-
-
 ## Some repositories:
 
 ### Learning
