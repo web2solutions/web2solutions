@@ -4,7 +4,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=web2solutions&layout=compact&hide=shell,php,perl6,html,smarty,yaml,toml,text,asciidoc,ini,tsconfig,charmci,scss,batchfile,other" />
 </a>
 
-![visitor](https://generic-access-counter.vercel.app/api/counter-text "Visitor number")
+<img src="https://generic-access-counter.vercel.app/api/counter-text" />
+
 
 
 
