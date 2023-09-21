@@ -52,7 +52,7 @@ References:
 - setup main boxes
 - setup host environment
 
-<https://metacpan.org/dist/WWW-Kinghost-Painel>
+<https://metacpan.org/pod/WWW::Kinghost::Painel>
 
 ## DHTMLX-Perl - 2012
 
@@ -229,7 +229,7 @@ skills: Javascript, IndexedDB, DOM API, BOM API, WebSocket, React, Vue, DHTMLX, 
 
 ## Connector Framework
 
-The Connector Framework is a npm module built with typescript that encapsulates a set of `non-functional requirements` and is the core dependency of all microservices at Fabric.inc that provides communication with multiple third party service providers (almost 200) such as Stripe, Authorize.net, CyberSource, SalesForce, Paypal, and so on.
+The Connector Framework is a npm module built with typescript that encapsulates a set of `non-functional requirements` and is the core dependency of all microservices at Fabric.inc that provides communication with multiple third party service providers (almost 200) such as Stripe, Authorize.net, CyberSource, SalesForce, Paypal, Shopify, and so on.
 
 Company Fabric.inc
 
@@ -242,7 +242,7 @@ skills: AWS Lambda, AWS SNS, AWS SQS, serverless framework, Node.js, Typescript,
 --------------------
 ## Guessing Game 2021
 
-Guessing game.
+Guessing game
 
 <https://github.com/web2solutions/guessing_game>
 
