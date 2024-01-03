@@ -31,6 +31,25 @@
 |  [redis-em-5-minutos][22] - `Learning Redis in 5 min` for portuguese speakers  |  Redis, bash, Markdown  | 2021 |
 |  [ds-ts][23] - `Data structures leveraging TypeScript.` for portuguese speakers  |  Typescript, Queues, Stacks, Tries, Heaps  | 2023 |
 
+### Back end projects
+
+| Repo                                    |  Technologies                 |  Date                 |
+| --------------------------------------- | ----------------------------- | ----------------------------- |
+|  [payroll-service][29]  |  Distributed locking, transaction, concurrency, Javascript, Node.js, Jest, Sequelize, SQLite, Redis, Express, Docker, TDD  | 2023 |
+|  [arithmetic-calculator-api][27]  |  Typescript, Node.js, Jest, MongoDB, Redis, AWS Lambda, Serverless, Docker, TDD, DDD, JWT, Mongoose  | 2023 |
+|  [accelerator-filesystem][20]  |  ES8, Node.js, Express, Mocha, GraphQL, jsDoc, Docker, TDD, DDD  | 2021 |
+|  [Jumentix][19]  |  ES6,  Nodejs, Mongoose, Sequelize, Express, Socket.io, pm2, Mocha, MongoDB, Redis, MS SQL, RabbitMQ, Apache Cassandra, Elastic Search, Swagger, , AWS EC2, Event Sourcing, CASE, RAD, DRY | 2019 - 2020|
+|  [AgileREST][7]  |  Perl, DBIx, Mojolicious, Redis, PostgreSQL, MS SQL, MySQL, Starman, Nginx, AWS EC2, CASE, RAD, DRY, Object Oriented  | 2014 |
+|  [AgileWebsocket][8]  | Perl, Mojolicious, Redis, Websocket, Nginx, AWS EC2  | 2015 |
+|  [PerlTrello][9]  | Perl, ES5 (VanillaJS), DHTMLX, Trello API, CGI, Apache | 2014 |
+|  [dhtmlxChat][10]  | Perl, Dancer, Twiggy, Nginx, RabbitMQ, DHTMLX, Websocket, ES5, DHTMLX | 2014 |
+|  [PaypalREST][17]  | Perl, LWP, Crypt, Paypal API, Object Oriented | 2014 |
+|  [Tribunais::TJES][14]  | Perl, Mechanize, Xpath, Crawling, Object Oriented | 2011 |
+|  [Tribunais::TRTES][15]  | Perl, Mechanize, Xpath, Crawling, Object Oriented | 2011 |
+|  [WWW::Kinghost::Painel][16]  | Perl, DBI, Mechanize, Xpath, Crawling, Object Oriented | 2011 |
+|  [DHTMLX-Perl][11]  | Perl, DBI, DHTMLX, MS SQL, PostgreSQL, MySQL, Firebird, Apache, IIS, ASP, CGI, PSGI, Object Oriented | 2011 |
+
+
 ### Front End projects
 
 | Repo                                    |  Technologies, Paradigms                 |  Date                 |
@@ -48,23 +67,6 @@
 |  [dhxMVP][5]  |  ES5 (VanillaJS), Nodejs, DHTMLX, Gulp, Electron, IndexedDB, Browser extension, Offline First, CASE, RAD, DRY  | 2016 |
 |  [csvViewer][6]  |  Nodejs, DHTMLX, IndexedDB, jQuery, PapaParse  | 2015 |
 
-
-### Back end projects
-
-| Repo                                    |  Technologies                 |  Date                 |
-| --------------------------------------- | ----------------------------- | ----------------------------- |
-|  [arithmetic-calculator-api][27]  |  Typescript, Node.js, Jest, MongoDB, Redis, AWS Lambda, Serverless, Docker, TDD, DDD, JWT, Mongoose  | 2023 |
-|  [accelerator-filesystem][20]  |  ES8, Node.js, Express, Mocha, GraphQL, jsDoc, Docker, TDD, DDD  | 2021 |
-|  [Jumentix][19]  |  ES6,  Nodejs, Mongoose, Sequelize, Express, Socket.io, pm2, Mocha, MongoDB, Redis, MS SQL, RabbitMQ, Apache Cassandra, Elastic Search, Swagger, , AWS EC2, Event Sourcing, CASE, RAD, DRY | 2019 - 2020|
-|  [AgileREST][7]  |  Perl, DBIx, Mojolicious, Redis, PostgreSQL, MS SQL, MySQL, Starman, Nginx, AWS EC2, CASE, RAD, DRY, Object Oriented  | 2014 |
-|  [AgileWebsocket][8]  | Perl, Mojolicious, Redis, Websocket, Nginx, AWS EC2  | 2015 |
-|  [PerlTrello][9]  | Perl, ES5 (VanillaJS), DHTMLX, Trello API, CGI, Apache | 2014 |
-|  [dhtmlxChat][10]  | Perl, Dancer, Twiggy, Nginx, RabbitMQ, DHTMLX, Websocket, ES5, DHTMLX | 2014 |
-|  [PaypalREST][17]  | Perl, LWP, Crypt, Paypal API, Object Oriented | 2014 |
-|  [Tribunais::TJES][14]  | Perl, Mechanize, Xpath, Crawling, Object Oriented | 2011 |
-|  [Tribunais::TRTES][15]  | Perl, Mechanize, Xpath, Crawling, Object Oriented | 2011 |
-|  [WWW::Kinghost::Painel][16]  | Perl, DBI, Mechanize, Xpath, Crawling, Object Oriented | 2011 |
-|  [DHTMLX-Perl][11]  | Perl, DBI, DHTMLX, MS SQL, PostgreSQL, MySQL, Firebird, Apache, IIS, ASP, CGI, PSGI, Object Oriented | 2011 |
 
 
 
@@ -99,3 +101,4 @@
 [26]: https://github.com/web2solutions/arithmetic-calculator-ui
 [27]: https://github.com/web2solutions/arithmetic-calculator-api
 [28]: https://github.com/web2solutions/domain-designer
+[29]: https://github.com/web2solutions/payroll-service
