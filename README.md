@@ -43,23 +43,6 @@
 |  [arithmetic-calculator-ui][26]  |  ES8, Nodejs, Vue, Cypress, TDD, Docker, Vercel | 2023|
 
 
-
-### Back end projects
-
-| Repo                                    |  Technologies                 |  Date                 |
-| --------------------------------------- | ----------------------------- | ----------------------------- |
-|  [Jumentix][19]  |  ES6,  Nodejs, Mongoose, Sequelize, Express, Socket.io, pm2, Mocha, MongoDB, Redis, MS SQL, RabbitMQ, Apache Cassandra, Elastic Search, Swagger, , AWS EC2, Event Sourcing, CASE, RAD, DRY | 2019 - 2020|
-|  [AgileREST][7]  |  Perl, DBIx, Mojolicious, Redis, PostgreSQL, MS SQL, MySQL, Starman, Nginx, AWS EC2, CASE, RAD, DRY, Object Oriented  | 2014 |
-|  [AgileWebsocket][8]  | Perl, Mojolicious, Redis, Websocket, Nginx, AWS EC2  | 2015 |
-|  [PerlTrello][9]  | Perl, ES5 (VanillaJS), DHTMLX, Trello API, CGI, Apache | 2014 |
-|  [dhtmlxChat][10]  | Perl, Dancer, Twiggy, Nginx, RabbitMQ, DHTMLX, Websocket, ES5, DHTMLX | 2014 |
-|  [PaypalREST][17]  | Perl, LWP, Crypt, Paypal API, Object Oriented | 2014 |
-|  [Tribunais::TJES][14]  | Perl, Mechanize, Xpath, Crawling, Object Oriented | 2011 |
-|  [Tribunais::TRTES][15]  | Perl, Mechanize, Xpath, Crawling, Object Oriented | 2011 |
-|  [WWW::Kinghost::Painel][16]  | Perl, DBI, Mechanize, Xpath, Crawling, Object Oriented | 2011 |
-|  [DHTMLX-Perl][11]  | Perl, DBI, DHTMLX, MS SQL, PostgreSQL, MySQL, Firebird, Apache, IIS, ASP, CGI, PSGI, Object Oriented | 2011 |
-
-
 ### Front End projects
 
 | Repo                                    |  Technologies, Paradigms                 |  Date                 |
@@ -75,6 +58,19 @@
 |  [Voodux x Ionic demo #1][4]  |  Typescript, Nodejs, Ionic, Ionic router, react, Offline First  | 2021 |
 |  [dhxMVP][5]  |  ES5 (VanillaJS), Nodejs, DHTMLX, Gulp, Electron, IndexedDB, Browser extension, Offline First, CASE, RAD, DRY  | 2016 |
 |  [csvViewer][6]  |  Nodejs, DHTMLX, IndexedDB, jQuery, PapaParse  | 2015 |
+
+
+### Back end projects
+
+| Repo                                    |  Technologies                 |  Date                 |
+| --------------------------------------- | ----------------------------- | ----------------------------- |
+|  [Jumentix][19]  |  ES6,  Nodejs, Mongoose, Sequelize, Express, Socket.io, pm2, Mocha, MongoDB, Redis, MS SQL, RabbitMQ, Apache Cassandra, Elastic Search, Swagger, , AWS EC2, Event Sourcing, CASE, RAD, DRY | 2019 - 2020|
+|  [AgileREST][7]  |  Perl, DBIx, Mojolicious, Redis, PostgreSQL, MS SQL, MySQL, Starman, Nginx, AWS EC2, CASE, RAD, DRY, Object Oriented  | 2014 |
+|  [dhtmlxChat][10]  | Perl, Dancer, Twiggy, Nginx, RabbitMQ, DHTMLX, Websocket, ES5, DHTMLX | 2014 |
+|  [Tribunais::TJES][14]  | Perl, Mechanize, Xpath, Crawling, Object Oriented | 2011 |
+|  [Tribunais::TRTES][15]  | Perl, Mechanize, Xpath, Crawling, Object Oriented | 2011 |
+|  [WWW::Kinghost::Painel][16]  | Perl, DBI, Mechanize, Xpath, Crawling, Object Oriented | 2011 |
+|  [DHTMLX-Perl][11]  | Perl, DBI, DHTMLX, MS SQL, PostgreSQL, MySQL, Firebird, Apache, IIS, ASP, CGI, PSGI, Object Oriented | 2011 |
 
 
 
