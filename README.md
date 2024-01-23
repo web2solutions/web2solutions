@@ -37,7 +37,7 @@
 
 | Repo                                    |  Technologies                 |  Date                 |
 | --------------------------------------- | ----------------------------- | ----------------------------- |
-|  [payroll-service][29]  |  Distributed locking, transaction, concurrency, Javascript, Node.js, Sequelize, SQLite, Redis, Express, React, Docker, TDD, Jest, Supertest | 2023 |
+|  [payroll-service][29]  |  Distributed locking, transaction, concurrency, Javascript, Node.js, Sequelize, SQLite, Redis, Express, React, Docker, TDD, Jest, Supertest | 2024 |
 |  [arithmetic-calculator-api][27]  |  Typescript, Node.js, Jest, MongoDB, Redis, AWS Lambda, Serverless, Docker, TDD, DDD, JWT, Mongoose  | 2023 |
 |  [arithmetic-calculator-ui][26]  |  ES8, Nodejs, Vue, Cypress, TDD, Docker, Vercel | 2023|
 
