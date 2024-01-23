@@ -30,14 +30,23 @@
 | --------------------------------------- | ----------------------------- | ----------------------------- |
 |  [redis-em-5-minutos][22] - `Learning Redis in 5 min` for portuguese speakers  |  Redis, bash, Markdown  | 2021 |
 |  [ds-ts][23] - `Data structures leveraging TypeScript.` for portuguese speakers  |  Typescript, Queues, Stacks, Tries, Heaps  | 2023 |
+|  [arithmetic-calculator-ui][26]  |  ES8, Nodejs, Vue, Cypress, TDD, Docker, Vercel | 2023|
 
-### Back end projects
+
+### Fullstack projects
+
 
 | Repo                                    |  Technologies                 |  Date                 |
 | --------------------------------------- | ----------------------------- | ----------------------------- |
 |  [payroll-service][29]  |  Distributed locking, transaction, concurrency, Javascript, Node.js, Sequelize, SQLite, Redis, Express, React, Docker, TDD, Jest, Supertest | 2023 |
 |  [arithmetic-calculator-api][27]  |  Typescript, Node.js, Jest, MongoDB, Redis, AWS Lambda, Serverless, Docker, TDD, DDD, JWT, Mongoose  | 2023 |
-|  [accelerator-filesystem][20]  |  ES8, Node.js, Express, Mocha, GraphQL, jsDoc, Docker, TDD, DDD  | 2021 |
+
+
+
+### Back end projects
+
+| Repo                                    |  Technologies                 |  Date                 |
+| --------------------------------------- | ----------------------------- | ----------------------------- |
 |  [Jumentix][19]  |  ES6,  Nodejs, Mongoose, Sequelize, Express, Socket.io, pm2, Mocha, MongoDB, Redis, MS SQL, RabbitMQ, Apache Cassandra, Elastic Search, Swagger, , AWS EC2, Event Sourcing, CASE, RAD, DRY | 2019 - 2020|
 |  [AgileREST][7]  |  Perl, DBIx, Mojolicious, Redis, PostgreSQL, MS SQL, MySQL, Starman, Nginx, AWS EC2, CASE, RAD, DRY, Object Oriented  | 2014 |
 |  [AgileWebsocket][8]  | Perl, Mojolicious, Redis, Websocket, Nginx, AWS EC2  | 2015 |
@@ -55,7 +64,6 @@
 | Repo                                    |  Technologies, Paradigms                 |  Date                 |
 | --------------------------------------- | ----------------------------- | ----------------------------- |
 |  [Domain Designer][28]  | Typescript, Nodejs, Vue, Cypress, TDD, DDD, Clean Architecture, Hexagonal Architecture, OAS, Rapid Development, | 2023|
-|  [arithmetic-calculator-ui][26]  |  ES8, Nodejs, Vue, Cypress, TDD, Docker, Vercel | 2023|
 |  [VooduX][1]  |  ES8, Nodejs, babel, webpack, IndexeDB, Web and Service Workers, React, Vue, Cypress, JsDoc, TDD, DDD, Offline First, CASE, RAD, DRY, Event Driven Architecture, Event Sourcing | 2021|
 |  [Jumentix-Vue-UI][18]  |  ES6, Nodejs, Vue, Swagger, babel, webpack, IndexeDB, Vuetify, jQWidgets, Echarts, Material Design, Offline First, CASE, RAD, DRY | 2019 - 2020 |
 |  [SkiX - Javascript SkiFree Game][25]  |  ES8, Nodejs, Canvas, babel, webpack, Offline First, NoSQL, TDD, Visual Testing | 2021 |
