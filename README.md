@@ -20,8 +20,3 @@
 <a href="https://github.com/web2solutions/generic-access-counter">
   <img align="center" src="https://generic-access-counter.vercel.app/api/counter-text" />
 </a>
-
-
-
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=web2solutions)
-
